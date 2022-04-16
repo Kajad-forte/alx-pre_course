@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 Learning software engineering 
 =======
 
